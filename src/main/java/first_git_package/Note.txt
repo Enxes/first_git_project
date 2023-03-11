@@ -14,7 +14,7 @@
 
 NOTE: git status -> This is our friend. This can be used anytime to see the progress
 
-4. Create a new SECOND COMMIT
+4. Create a new SECOND COMMIT (used everytime?)
     *Create a new Java class under first_git_package: MySecondClass
     *Create a new commit and push the code to github (2nd and rest of the commits other than 1st)
         *git add .
