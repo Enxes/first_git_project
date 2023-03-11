@@ -1,4 +1,4 @@
-*****GIT DAY 1*****
+*****GIT DAY 1***** (GIT PULL BEFORE GIT PUSH)
 1. Create a project
 2.Create a GITHUB REPOSITORY
     *go to github
