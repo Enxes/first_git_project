@@ -60,7 +60,7 @@ create a new commit and push
 Then codes will be in the remote enes branch
 
 ***One more side branch flow
-created a code : MySeventhClass
+created a code : first_git_package.MySeventhClass
 create a new commit and push
     git add .
     git commit -m "message"
